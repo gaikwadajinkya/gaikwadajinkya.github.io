@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{https://gaikwadajinkya.github.io/cv/ }
+{% include base_path %}
 
 Education
 ======
