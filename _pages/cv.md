@@ -18,7 +18,7 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{With Aniket Zodage and Prof. M. S. Santhanam, in Physical Review E (Letter) (2021) }
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
