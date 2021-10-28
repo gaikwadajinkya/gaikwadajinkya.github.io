@@ -16,15 +16,15 @@ Education
 * Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected)
 
 
-Publications
+Work experience
 ======
-  <ul>{With Aniket Zodage and Prof. M. S. Santhanam, in Physical Review E (Letter) (2021) }
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
