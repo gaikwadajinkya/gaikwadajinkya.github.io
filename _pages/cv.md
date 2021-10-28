@@ -16,15 +16,13 @@ Education
 * Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected)
 
 
-Work experience
+Teaching
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant for:
+  * Graph theory (Spring 2021), Course coordinator: Dr. Soumen Maity
+  * Graph theory (Fall 2021), Course coordinator: Dr. Krishna Kaipa
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lecturer:
+  * Graph therotic algorithms (Spring 2021), at Fergusson College, Pune
+  * Graph therotic algorithms (summer 2021), at Fergusson College, Pune
   
