@@ -2,7 +2,7 @@
 title: "Parameterized Complexity of Satisfactory Partition Problem"
 collection: publications
 permalink: /publication/2021-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'In this paper, we study the Locally Minimal Defensive Alliance problem parameterized by different structural parameters.'
 date: 2020-10-01
 venue: 'COCOA: Combinatorial Optimization and Applications'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
