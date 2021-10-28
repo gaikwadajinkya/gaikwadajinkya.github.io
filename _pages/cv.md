@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Indian Institute of Science Education and Research Pune, 2019
+* M.S. in Mathematics, Indian Institute of Science Education and Research Pune, 2019
+* Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected)
 
 Work experience
 ======
