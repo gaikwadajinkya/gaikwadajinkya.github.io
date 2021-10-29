@@ -17,10 +17,10 @@ Education
 
 Publications
 ======
-  <ul>{% Parameterized Complexity of Defensive and Offensive Alliances in Graphs %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, The Balanced Satisfactory Partition Problem, SOFSEM 2021, Lecture Notes in Computer Science, Vol. 12607, 322-336, 2021.
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Locally Minimal Defensive Alliance, CALDAM 2021, Lecture Notes in Computer Science, Vol. 12601, 135-148, 2021.
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, COCOA 2020, Lecture Notes in Computer Science, Vol. 12577, 76-90, 2020.
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Defensive and Offensive Alliances in Graphs, ICDCIT 2021, Lecture Notes in Computer Science, Vol. 12582, 175-187, 2021.
 
 Teaching
 ======
