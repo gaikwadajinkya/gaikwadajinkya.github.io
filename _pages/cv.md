@@ -29,6 +29,6 @@ Teaching
   * Graph theory (Fall 2021), Course coordinator: Dr. Krishna Kaipa
 
 * Lecturer:
-  * Graph therotic algorithms (Spring 2021), at Fergusson College, Pune
-  * Graph therotic algorithms (summer 2021), at Fergusson College, Pune
+  * Graph theoretic algorithms (Spring 2021), at Fergusson College, Pune
+  * Graph theoretic algorithms (summer 2021), at Fergusson College, Pune
   
