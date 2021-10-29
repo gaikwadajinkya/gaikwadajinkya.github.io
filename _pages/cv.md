@@ -15,6 +15,12 @@ Education
 * M.S. in Mathematics, Indian Institute of Science Education and Research Pune, 2019
 * Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected)
 
+Publications
+======
+  <ul>{% Parameterized Complexity of Defensive and Offensive Alliances in Graphs %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 Teaching
 ======
