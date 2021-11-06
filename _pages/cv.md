@@ -17,6 +17,9 @@ Education
 
 Preprints and Publications
 ======
+* Ajinkya Gaikwad and Soumen Maity, The Hamless Set Problem, (Manuscript).
+* Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances: A Parameterized
+Perspective, (Manuscript).
 * Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, (Accepted in COCOA 2021).[arXiv link](https://arxiv.org/pdf/2110.15757.pdf)
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, The Balanced Satisfactory Partition Problem, SOFSEM 2021, Lecture Notes in Computer Science, Vol. 12607, 322-336, 2021.
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Locally Minimal Defensive Alliance, CALDAM 2021, Lecture Notes in Computer Science, Vol. 12601, 135-148, 2021.
