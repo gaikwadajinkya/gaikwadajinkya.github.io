@@ -15,7 +15,7 @@ Education
 * M.S. in Mathematics, Indian Institute of Science Education and Research Pune, 2019
 * Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected)
 
-Publications
+Preprints and Publications
 ======
 * Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, (Accepted in COCOA 2021).[arXiv link](https://arxiv.org/pdf/2110.15757.pdf)
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, The Balanced Satisfactory Partition Problem, SOFSEM 2021, Lecture Notes in Computer Science, Vol. 12607, 322-336, 2021.
