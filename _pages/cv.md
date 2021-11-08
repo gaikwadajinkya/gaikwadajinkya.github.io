@@ -17,6 +17,7 @@ Education
 
 Preprints and Publications
 ======
+* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Manuscript). 
 * Ajinkya Gaikwad and Soumen Maity, The Hamless Set Problem, (Manuscript).
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances: A Parameterized
 Perspective, (Manuscript).
