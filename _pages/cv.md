@@ -20,6 +20,18 @@ Publications
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, The Balanced Satisfactory Partition Problem, SOFSEM 2021, Lecture Notes in Computer Science, Vol. 12607, 322-336, 2021.
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Locally Minimal Defensive Alliance, CALDAM 2021, Lecture Notes in Computer Science, Vol. 12601,
 135-148, 2021
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, COCOA 2020, Lecture Notes in Computer Science, Vol. 12577, 76-90, 2020.
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Defensive and Offensive Alliances in Graphs, ICDCIT 2021, Lecture Notes in Computer Science, Vol.12582, 175-187, 2021.
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Intractability of Defensive Alliance Problem, (accepted in CALDAM 2022).
+* Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, (accepted in COCOA 2021).[arXiv link](https://arxiv.org/abs/2110.15757)
+* Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances. Information Processing Letters, (under revision).
+* Ajinkya Gaikwad and Soumen Maity, The F-free edge deletion problem. Theoretical Computer Science, (under revision).
+
+Preprints
+======
+* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.05545)
+* Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.06267)
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem. Theoretical Computer Science, (under review).
 
 Teaching
 ======
@@ -34,4 +46,24 @@ Teaching
 Professional Services
 ======
 * Reviewer for Algorithmica journal.
+
+Academic Achievements
+======
+* Received the prestigious Prime Minister’s Research Fellowship, September 2020.
+* Received the CSIR NET fellowship. (August, 2019 - August, 2020)
+* Secured an All India Rank 133 in the Graduate Aptitude Test Engineering (GATE 2019 Mathematics) exam
+* Eligible for Junior Research Fellowship after securing an All India Rank 69 in the National Eligibility Test (NET 2018) exam
+* Received the Innovation in Science Pursuit for Inspires Research (INSPIRE) fellowship, given by the Department of Science and Technology, Government of India for the five years (August 2014 - May 2019)
+* Top 1% in Higher Secondary Education (HSC) Examination conducted by State Board
+
+
+
+
+
+
+
+
+
+
+
   
