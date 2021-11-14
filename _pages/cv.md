@@ -15,17 +15,11 @@ Education
 * M.S. in Mathematics, Indian Institute of Science Education and Research Pune, 2019
 * Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected)
 
-Preprints and Publications
+Publications
 ======
-* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Manuscript). [arXiv link](https://arxiv.org/abs/2111.05545)
-* Ajinkya Gaikwad and Soumen Maity, The Hamless Set Problem, (Manuscript).
-* Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances: A Parameterized
-Perspective, (Manuscript).
-* Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, (Accepted in COCOA 2021).[arXiv link](https://arxiv.org/abs/2110.15757)
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, The Balanced Satisfactory Partition Problem, SOFSEM 2021, Lecture Notes in Computer Science, Vol. 12607, 322-336, 2021.
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Locally Minimal Defensive Alliance, CALDAM 2021, Lecture Notes in Computer Science, Vol. 12601, 135-148, 2021.
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, COCOA 2020, Lecture Notes in Computer Science, Vol. 12577, 76-90, 2020.
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Defensive and Offensive Alliances in Graphs, ICDCIT 2021, Lecture Notes in Computer Science, Vol. 12582, 175-187, 2021.
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Locally Minimal Defensive Alliance, CALDAM 2021, Lecture Notes in Computer Science, Vol. 12601,
+135-148, 2021
 
 Teaching
 ======
