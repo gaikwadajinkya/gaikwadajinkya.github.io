@@ -23,7 +23,6 @@ Publications
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, COCOA 2020, Lecture Notes in Computer Science, Vol. 12577, 76-90, 2020.
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Defensive and Offensive Alliances in Graphs, ICDCIT 2021, Lecture Notes in Computer Science, Vol.12582, 175-187, 2021.
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Intractability of Defensive Alliance Problem, (accepted in CALDAM 2022).
-* Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, (accepted in COCOA 2021).[arXiv link](https://arxiv.org/abs/2110.15757)
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances. Information Processing Letters, (under revision).
 * Ajinkya Gaikwad and Soumen Maity, The F-free edge deletion problem. Theoretical Computer Science, (under revision).
 
