@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Spring 2021"
 collection: teaching
 type: "Algorithms"
 permalink: /teaching/2014-spring-teaching-1
