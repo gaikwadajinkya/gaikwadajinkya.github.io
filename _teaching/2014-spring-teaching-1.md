@@ -1,12 +1,11 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: ""
+type: 
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: 
-location: ""
+venue: 
+date: 2014-01-01
+location: 
 ---
 
-[Notes](https://drive.google.com/file/d/1oHrgDs47qOGiY_k7Jg44mQpTeG3u89HM/view?usp=sharing)
-
+This is a description of a teaching experience. You can use markdown like any other post.
