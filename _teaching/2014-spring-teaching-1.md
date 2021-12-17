@@ -2,7 +2,7 @@
 title: "Spring 2021"
 collection: teaching
 type: "Algorithms"
-permalink: /teaching/2014-spring-teaching-1
+permalink: 
 venue: "Ferguson college"
 date: 2014-01-01
 location: "Pune"
