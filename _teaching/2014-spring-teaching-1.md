@@ -4,7 +4,7 @@ collection: teaching
 type: "Algorithms"
 permalink: 
 venue: "Ferguson college"
-date: 2021
+date: 2021-01-01
 location: "Pune"
 ---
 
