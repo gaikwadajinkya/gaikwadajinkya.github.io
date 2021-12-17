@@ -1,10 +1,20 @@
 ---
-title: "[class 1](https://drive.google.com/file/d/17K-g2prvcLYo9aTPvD1SWx2XiC2L6SHq/view?usp=sharing)"
+title: "Teaching experience 1"
 collection: teaching
-type: ""
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: 
-date: 
-location: ""
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
