@@ -1,11 +1,11 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: ""
+type: 
 permalink: 
-venue: ""
+venue: 
 date: 
-location: ""
+location: 
 ---
 
 [Notes](https://drive.google.com/file/d/17K-g2prvcLYo9aTPvD1SWx2XiC2L6SHq/view?usp=sharing)
