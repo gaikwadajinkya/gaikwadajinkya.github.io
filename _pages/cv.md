@@ -15,22 +15,19 @@ Education
 * M.S. in Mathematics, Indian Institute of Science Education and Research Pune, 2019
 * Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected)
 
-Publications
+Selected Publications
 ======
+* Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, COCOA 2021, Lecture Notes in Computer Science, Vol. 13135, 579-586, 2021.
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, The Balanced Satisfactory Partition Problem, SOFSEM 2021, Lecture Notes in Computer Science, Vol. 12607, 322-336, 2021.
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Locally Minimal Defensive Alliance, CALDAM 2021, Lecture Notes in Computer Science, Vol. 12601,
-135-148, 2021
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, COCOA 2020, Lecture Notes in Computer Science, Vol. 12577, 76-90, 2020.
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Defensive and Offensive Alliances in Graphs, ICDCIT 2021, Lecture Notes in Computer Science, Vol.12582, 175-187, 2021.
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Intractability of Defensive Alliance Problem, (accepted in CALDAM 2022).
-* Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances. Information Processing Letters, (under revision).
-* Ajinkya Gaikwad and Soumen Maity, The F-free edge deletion problem. Theoretical Computer Science, (under revision).
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, Theoretical Computer Science (under revision).
+* Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances, Information Processing Letters (under revision).
+* Ajinkya Gaikwad and Soumen Maity, The F-free edge deletion problem. Theoretical Computer Science (under revision).
 
 Preprints
 ======
 * Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.05545)
 * Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.06267)
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem. Theoretical Computer Science, (under review).
 
 Teaching
 ======
