@@ -32,6 +32,7 @@ Preprints
 ======
 
 * Ajinkya Gaikwad and Soumen Maity, The F-free edge deletion problem. Theoretical Computer Science (under revision).
+* Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances: A Parameterized Perspective, (Manuscript).[arXiv link](https://arxiv.org/abs/2202.02010)
 * Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.05545)
 * Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.06267)
 
