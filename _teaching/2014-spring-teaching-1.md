@@ -1,10 +1,10 @@
 ---
-title: "Summer 2021, Spring 2021, Summer 2022"
+title: "Teaching experience 1"
 collection: teaching
-type: "Graph Theoretic Algorithms"
-permalink: /teaching/2022
-venue: "Ferguson college"
-date: 2022
-location: "Pune"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
