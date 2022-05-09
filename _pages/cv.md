@@ -37,6 +37,7 @@ Preprints
 * Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Under revision).[arXiv link](https://arxiv.org/abs/2111.05545)
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances: A Parameterized Perspective, (Manuscript).[arXiv link](https://arxiv.org/abs/2202.02010)
 * Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.06267)
+* Ajinkya Gaikwad and Soumen Maity, Offensive Alliances in Graphs, (in preparation).
 
 
 Teaching
