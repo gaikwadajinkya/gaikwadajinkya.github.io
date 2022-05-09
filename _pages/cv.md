@@ -17,22 +17,25 @@ Education
 
 Conference Publications
 ==
-* Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, WALCOM 2022, Lecture Notes in Computer Science, to appear
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized intractability of defensive alliance problem, CALDAM 2022, Lecture Notes in Computer Science, to appear
-* Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, COCOA 2021, Lecture Notes in Computer Science, Vol. 13135, 579-586, 2021.[arXiv link](https://arxiv.org/pdf/2110.15757.pdf)
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, The Balanced Satisfactory Partition Problem, SOFSEM 2021, Lecture Notes in Computer Science, Vol. 12607, 322-336, 2021.
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, COCOA 2020, Lecture Notes in Computer Science, Vol. 12577, 76-90, 2020.[arXiv link](https://arxiv.org/pdf/2007.14339.pdf)
+
+* Ajinkya Gaikwad and Soumen Maity, On the Harmless Set Problem Parameterized by Treewidth, WALCOM 2022, Lecture Notes in Computer Science, Vol. 13174,  227-238, 2022.[Link](https://link.springer.com/chapter/10.1007/978-3-030-96731-4_19)
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized intractability of defensive alliance problem, CALDAM 2022, Lecture Notes in Computer Science, Vol. 13179, 279-291, 2022.[Link](https://link.springer.com/chapter/10.1007/978-3-030-95018-7_22)
+* Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, COCOA 2021, Lecture Notes in Computer Science, Vol. 13135, 579-586, 2021.[Link](https://link.springer.com/chapter/10.1007/978-3-030-92681-6_45)
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, The Balanced Satisfactory Partition Problem, SOFSEM 2021, Lecture Notes in Computer Science, Vol. 12607, 322-336, 2021. 
+* AAjinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Locally Minimal Defensive Alliance, CALDAM 2021, Lecture Notes in Computer Science, Vol. 12601, 135-148, 2021.[Link](https://link.springer.com/chapter/10.1007/978-3-030-67731-2_23)
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Defensive and Offensive Alliances in Graphs, ICDCIT 2021, Lecture Notes in Computer Science, Vol. 12582, 175-187, 2021.[Link](https://link.springer.com/chapter/10.1007/978-3-030-65621-8_11)
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, COCOA 2020, Lecture Notes in Computer Science, Vol. 12577, 76-90, 2020.[Link](https://link.springer.com/chapter/10.1007/978-3-030-64843-5_6)
 
 Journal Publications
 ==
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, Theoretical Computer Science.[Link](http://dx.doi.org/10.1016/j.tcs.2022.01.022)
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, Theoretical Computer Science.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522000391)
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances, Information Processing Letters [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020019022000102).
 
 Preprints
 ==
 * Ajinkya Gaikwad and Soumen Maity, The F-free edge deletion problem. Theoretical Computer Science (under revision).
+* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Under revision).[arXiv link](https://arxiv.org/abs/2111.05545)
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances: A Parameterized Perspective, (Manuscript).[arXiv link](https://arxiv.org/abs/2202.02010)
-* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.05545)
 * Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, (Manuscript).[arXiv link](https://arxiv.org/abs/2111.06267)
 
 
@@ -43,8 +46,7 @@ Teaching
   * Graph theory (Fall 2021), Course coordinator: Dr. Krishna Kaipa
 
 * Lecturer:
-  * Graph theoretic algorithms (Spring 2021), at Ferguson College, Pune
-  * Graph theoretic algorithms (summer 2021), at Ferguson College, Pune
+  * Graph theoretic algorithms (summer 2021, Spring 2021, summer 2022), at Ferguson College, Pune
 
 Professional Services
 ======
