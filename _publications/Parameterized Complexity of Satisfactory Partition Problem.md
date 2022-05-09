@@ -8,7 +8,6 @@ venue: 'COCOA: Combinatorial Optimization and Applications'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-64843-5_6'
 citation: 
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-64843-5_6)
 
