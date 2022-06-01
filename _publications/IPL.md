@@ -9,6 +9,6 @@ paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-96731-4_19'
 citation: 
 ---
 
-[Download paper here]([https://arxiv.org/abs/2110.15757](https://www.sciencedirect.com/science/article/abs/pii/S0020019022000102))
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0020019022000102)
 
 Recommended citation: 
