@@ -30,11 +30,11 @@ Journal Publications
 ==
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, Theoretical Computer Science.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522000391)
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances, Information Processing Letters [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020019022000102).
+* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, Theoretical Computer Science (to appear)[arXiv link](https://arxiv.org/abs/2111.05545)
 
 Preprints
 ==
 * Ajinkya Gaikwad and Soumen Maity, The F-free edge deletion problem. Theoretical Computer Science (under revision).
-* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, (Under revision).[arXiv link](https://arxiv.org/abs/2111.05545)
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances: A Parameterized Perspective, (Manuscript).[arXiv link](https://arxiv.org/abs/2202.02010)
 * Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, (Under submission).[arXiv link](https://arxiv.org/abs/2111.06267)
 * Ajinkya Gaikwad and Soumen Maity, Offensive Alliances in Graphs, (in preparation).
