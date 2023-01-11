@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics, Indian Institute of Science Education and Research Pune, 2019
 * M.S. in Mathematics, Indian Institute of Science Education and Research Pune, 2019
-* Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-2024 (expected)
+* Ph.D in Mathematics, Indian Institute of Science Education and Research Pune, 2019-
 
 Conference Publications
 ==
