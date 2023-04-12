@@ -30,8 +30,8 @@ Journal Publications
 ==
 * Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, Theoretical Computer Science, Vol. 928, 136 -150, 2022.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522003917?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=124673919&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM267652&utm_source=AC_)
 * Ajinkya Gaikwad and Soumen Maity, Further parameterized algorithms for the F-free edge deletion problem, Theoretical Computer Science, Vol. 933, 125-137, 2022.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522005205?via%3Dihub)
-* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, Theoretical Computer Science.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522000391)
-* Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances, Information Processing Letters.[Link](https://www.sciencedirect.com/science/article/abs/pii/S0020019022000102)
+* Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, Theoretical Computer Science, Vol. 907, 113-127, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0304397522000391)
+* Ajinkya Gaikwad, Soumen Maity, Globally Minimal Defensive Alliances, Information Processing Letters, Vol. 177, 106253, 2022.[Link](https://www.sciencedirect.com/science/article/abs/pii/S0020019022000102)
 
 Preprints
 ==
