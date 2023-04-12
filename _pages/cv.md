@@ -28,8 +28,8 @@ Conference Publications
 
 Journal Publications
 ==
-* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, Theoretical Computer Science.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522003917?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=124673919&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM267652&utm_source=AC_)
-* Ajinkya Gaikwad and Soumen Maity, Further parameterized algorithms for the F-free edge deletion problem, Theoretical Computer Science.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522005205?via%3Dihub)
+* Ajinkya Gaikwad and Soumen Maity, Defensive Alliances in Graphs, Theoretical Computer Science, Vol. 928, 136 -150, 2022.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522003917?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=124673919&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM267652&utm_source=AC_)
+* Ajinkya Gaikwad and Soumen Maity, Further parameterized algorithms for the F-free edge deletion problem, Theoretical Computer Science, Vol. 933, 125-137, 2022.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522005205?via%3Dihub)
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized Complexity of Satisfactory Partition Problem, Theoretical Computer Science.[Link](https://www.sciencedirect.com/science/article/pii/S0304397522000391)
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances, Information Processing Letters.[Link](https://www.sciencedirect.com/science/article/abs/pii/S0020019022000102)
 
@@ -37,7 +37,7 @@ Preprints
 ==
 * Ajinkya Gaikwad, Soumen Maity and Saket Saurabh, Parameterized Algorithms for Locally Minimal Defensive Alliance.[arXiv link](https://arxiv.org/abs/2208.03491)
 * Ajinkya Gaikwad and Soumen Maity, Globally Minimal Defensive Alliances: A Parameterized Perspective, (Manuscript).[arXiv link](https://arxiv.org/abs/2202.02010)
-* Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, (Under submission).[arXiv link](https://arxiv.org/abs/2111.06267)
+* Ajinkya Gaikwad and Soumen Maity, The Harmless Set Problem, (revised version submitted) , 2023. [arXiv link](https://arxiv.org/abs/2111.06267)
 * Ajinkya Gaikwad and Soumen Maity, Offensive Alliances in Graphs.[arXiv link](https://arxiv.org/abs/2208.02992).
 
 
