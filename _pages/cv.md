@@ -52,7 +52,7 @@ Teaching
 
 Professional Services
 ======
-* Reviewer for Algorithmica journal.
+* Reviewer for Algorithmica journal and IWOCA 2023. 
 
 Academic Achievements
 ======
