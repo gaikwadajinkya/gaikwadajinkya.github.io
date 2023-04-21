@@ -48,7 +48,9 @@ Teaching
   * Graph theory (Fall 2021), Course coordinator: Dr. Krishna Kaipa
 
 * Lecturer:
-  * Graph theoretic algorithms (Fall 2023, Spring 2022, Fall 2022, Spring 2021,
+* Combinatorics (Spring 2023), Design and Anaylsis of Algorithms (Spring 2023)
+* Graph theory (Fall 2022)
+* Graph theoretic algorithms (Spring 2021,
 Summer 2021), at Ferguson College, Pune
 
 Professional Services
