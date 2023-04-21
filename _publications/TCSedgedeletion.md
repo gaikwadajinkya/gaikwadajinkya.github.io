@@ -6,7 +6,7 @@ permalink: /publication/2022-Further parameterized algorithms for the
 -free edge deletion problem
 excerpt: ''
 venue: 'Theoretical Computer Science'
-date: 2022-06-09
+date: 2022-11-02
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0304397522005205?via%3Dihub'
 citation: 
 ---
