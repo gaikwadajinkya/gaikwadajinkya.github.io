@@ -1,9 +1,7 @@
 ---
-title: "Further parameterized algorithms for the 
--free edge deletion problem"
+title: "Further parameterized algorithms for the F-free edge deletion problem"
 collection: publications
-permalink: /publication/2022-Further parameterized algorithms for the 
-F-free edge deletion problem
+permalink: /publication/2022-Further parameterized algorithms for the F-free edge deletion problem
 excerpt: 'We study the F-free edge deletion problem from point view of parameterized complexity.'
 venue: 'Theoretical Computer Science'
 date: 2022-11-02
