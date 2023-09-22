@@ -17,7 +17,7 @@ Education
 
 Conference Publications
 ==
-
+* Ajinkya Gaikwad and Soumen Maity, Parameterized complexity of the T_{h+1}-Free Edge Deletion Problem, FCT 2023, Lecture Notes in Computer Science, Vol. 14292,  2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-43587-4_16)
 * Ajinkya Gaikwad and Soumen Maity, On the Harmless Set Problem Parameterized by Treewidth, WALCOM 2022, Lecture Notes in Computer Science, Vol. 13174,  227-238, 2022.[Link](https://link.springer.com/chapter/10.1007/978-3-030-96731-4_19)
 * Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, Parameterized intractability of defensive alliance problem, CALDAM 2022, Lecture Notes in Computer Science, Vol. 13179, 279-291, 2022.[Link](https://link.springer.com/chapter/10.1007/978-3-030-95018-7_22)
 * Ajinkya Gaikwad and Soumen Maity, On Structural Parameterizations of the Offensive Alliance Problem, COCOA 2021, Lecture Notes in Computer Science, Vol. 13135, 579-586, 2021.[Link](https://link.springer.com/chapter/10.1007/978-3-030-92681-6_45)
