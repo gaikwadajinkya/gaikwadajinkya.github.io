@@ -55,7 +55,7 @@ Summer 2021), at Ferguson College, Pune
 
 Professional Services
 ======
-* Reviewer for Algorithmica journal and IWOCA 2023. 
+* Reviewed papers for Algorithmica journal and IWOCA conference. 
 
 Academic Achievements
 ======
