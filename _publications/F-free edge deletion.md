@@ -21,7 +21,7 @@ paperurl: '[[https://www.sciencedirect.com/science/article/pii/S0304397522003917
 citation: 
 ---
 
-[Download paper here]([[https://www.sciencedirect.com/science/article/pii/S0304397522003917?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=124673919&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM267652&utm_source=AC_](https://www.sciencedirect.com/science/article/pii/S0304397524000161?via%3Dihub)https://www.sciencedirect.com/science/article/pii/S0304397524000161?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0304397522005205?via%3Dihub)https://www.sciencedirect.com/science/article/pii/S0304397522005205?via%3Dihub)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0304397522005205?via%3Dihub)
 
 Recommended citation: 
 
