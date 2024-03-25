@@ -1,5 +1,5 @@
 ---
-title: "Further Parameterized Algorithms for the $\mathcal{F}$-Free Edge Deletion Problem"
+title: "Further Parameterized Algorithms for the F-Free Edge Deletion Problem"
 collection: publications
 permalink: /publication/2022-Further Parameterized Algorithms for the $\mathcal{F}$-Free Edge Deletion Problem
 excerpt: 'Given a graph $G=(V,E)$ and  a set $\mathcal{F}$ of forbidden subgraphs, we study the
