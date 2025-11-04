@@ -26,9 +26,9 @@ Postdoctoral Researcher — Algorithms · Graph Theory · Algorithmic Game Theor
 
 ## Research Visits
 - **Visiting Researcher**, Center for Mathematical and Computational Sciences, **Institute for Basic Science (IBS)**, **Daejeon, South Korea**, **2025-07-25 → 2025-08-21**.  
-  Host: **Dr. Roohani Sharma**. Topic: parameterized algorithms & graph modification.
+  Host: **Dr. Roohani Sharma**. Topic: parameterized algorithms.
 
-## Publications (selected, published only)
+## Publications 
 - **A. Gaikwad**, S. Maity, S. K. Tripathi. *Parameterized complexity of locally minimal defensive alliances*. **Discrete Applied Mathematics 372**: 324–340, 2025.  
 - **A. Gaikwad**, H. Kumar, S. Maity. *Parameterized Algorithms for Editing to Uniform Cluster Graph*. In **FCT 2025**, LNCS 16106: 165–179, Springer.  
 - **A. Gaikwad**, H. Kumar, S. Maity, S. Saurabh, R. Sharma. *MaxMin Separation Problems: FPT Algorithms for st-Separator and Odd Cycle Transversal*. In **STACS 2025**, LIPIcs 327: 36:1–36:21.  
