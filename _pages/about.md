@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.cvut.cz/en'>Czech Technical University in Prague (CTU)</a> — Graph Algorithms & Parameterized Complexity
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg   # put your photo in /img and keep this name, or change it here
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computer Science</p>
+    <p>Czech Technical University in Prague</p>
+    <p>Prague, Czech Republic</p>
+    <p><a href="mailto:ajinkya.gaikwad@students.iiserpune.ac.in">ajinkya.gaikwad@students.iiserpune.ac.in</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m **Ajinkya Gaikwad**, a researcher working in **graph algorithms** and **parameterized complexity**.  
+My work focuses on kernelization and distance-bounded **graph modification** problems (e.g., cluster/club variants and vertex/edge editing). I enjoy designing fixed-parameter algorithms with provable guarantees and clean structural insights.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I will be conducting scientific research at **CTU Prague**, and previously studied at **IISER Pune**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research interests:** parameterized algorithms, kernelization, graph modification, clustering problems, structural graph theory.
+
+If you’d like a one-page CV on the site, place `cv.pdf` in the repo and I’ll link it here.
