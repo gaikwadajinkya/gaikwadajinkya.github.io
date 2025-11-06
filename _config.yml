@@ -18,12 +18,24 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: graph algorithms, parameterized complexity, kernelization, CTU Prague, academic homepage
 lang: en
-icon: ⚛️
+icon: "⚛️"
 
-# --- The two critical lines for your issue ---
+# --- Critical lines for GitHub Pages user-site repos ---
 url: "https://gaikwadajinkya.github.io"   # full site URL
 baseurl: ""                               # MUST be empty for a user-site repo
 
 last_updated: false
 impressum_path:
 back_to_top: true
+
+# --- Added to prevent NoMethodError in _plugins/download-3rd-party.rb ---
+third_party_libraries: {}
+
+# If you actually want to download any libraries, define them like:
+# third_party_libraries:
+#   mathjax:
+#     url: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+#     filename: mathjax.js
+#   katex:
+#     url: https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js
+#     filename: katex.min.js
