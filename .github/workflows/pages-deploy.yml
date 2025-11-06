@@ -2,7 +2,7 @@ name: Build and Deploy
 
 on:
   push:
-    branches: [ main ]
+    branches: [ "main" ]
   workflow_dispatch:
 
 permissions:
@@ -21,37 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install system dependencies (ImageMagick for jekyll-imagemagick)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick
-
-      - name: Setup Ruby
+      - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-          bundler-cache: true
-
-      - name: Install gems
-        run: bundle install --jobs 4 --retry 3
-
-      - name: Build site
-        run: bundle exec jekyll build --trace
-        env:
-          JEKYLL_ENV: production
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
