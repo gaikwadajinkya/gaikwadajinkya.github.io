@@ -1,12 +1,24 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses and teaching experience
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Experience
 
-Organize your courses by years, topics, or universities, however you like!
+**Lecturer**
+- *Ramsey Theory*, Pune University — Spring 2024  
+- *Combinatorics*, Ferguson College — Fall 2023  
+
+**Teaching Assistant**
+- *Linear Algebra*, Pune University — Fall 2024  
+- *Graph Theory*, NPTEL — Spring 2024  
+- *Graph Theory*, IISER Pune — Spring & Fall 2021  
+- *Graph Theoretic Algorithms and Combinatorics*, Ferguson College — Fall 2023, Fall 2022, Spring 2022, Spring & Summer 2021  
+
+---
+
+I have assisted and lectured in undergraduate and postgraduate courses on discrete mathematics, graph theory, and combinatorics.  
