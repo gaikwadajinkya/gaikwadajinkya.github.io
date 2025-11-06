@@ -1,11 +1,17 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Jekyll needs front matter so Liquid runs inside SCSS
 ---
+
 @charset "utf-8";
 
-// Dimensions
-$max-content-width: {{ site.max_width }};
+/* Max content width with layered fallbacks:
+   1) site.max_width
+   2) site.max_content_width
+   3) "980px" (hard default)
+*/
+$max-content-width: {{ site.max_width | default: site.max_content_width | default: '980px' }};
 
+/* Import your theme partials */
 @import
   "variables",
   "themes",
