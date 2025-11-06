@@ -6,88 +6,88 @@
   type: map
   contents:
     - name: Full Name
-      value: Ajinkya R. Gaikwad
+      value: "Ajinkya R. Gaikwad"
     - name: Email
-      value: ajinkyag.iise@gmail.com
+      value: "ajinkyag.iise@gmail.com"
     - name: Phone
-      value: +91 7620735204
+      value: "+91 7620735204"
     - name: Address
-      value: IISER Pune, 411008, India
+      value: "IISER Pune, 411008, India"
     - name: Research Interests
-      value: Parameterized algorithms, kernelization, graph modification problems, algorithmic game theory
+      value: "Parameterized algorithms, kernelization, graph modification problems, algorithmic game theory"
     - name: Languages
-      value: English, Marathi, Hindi
+      value: "English, Marathi, Hindi"
 
 - title: Education
   type: time_table
   contents:
-    - title: Postdoctoral Researcher
-      institution: Faculty of Information Technology, Czech Technical University (CTU)
-      year: 2026–
+    - title: "Postdoctoral Researcher"
+      institution: "Faculty of Information Technology, Czech Technical University (CTU)"
+      year: "2026–"
       description:
-        - Working on parameterized algorithms, graph modification problems, and algorithmic game theory.
-    - title: Ph.D. in Mathematics
-      institution: Indian Institute of Science Education and Research (IISER), Pune, India
-      year: 2019–2025
+        - "Working on parameterized algorithms, graph modification problems, and algorithmic game theory."
+    - title: "Ph.D. in Mathematics"
+      institution: "Indian Institute of Science Education and Research (IISER), Pune, India"
+      year: "2019–2025"
       description:
-        - Thesis on parameterized and kernelization complexity of graph modification problems.
-    - title: B.S.–M.S. Dual Degree in Mathematics
-      institution: Indian Institute of Science Education and Research (IISER), Pune, India
-      year: 2014–2019
+        - "Thesis on parameterized and kernelization complexity of graph modification problems."
+    - title: "B.S.–M.S. Dual Degree in Mathematics"
+      institution: "Indian Institute of Science Education and Research (IISER), Pune, India"
+      year: "2014–2019"
 
 - title: Research Visits
   type: time_table
   contents:
-    - title: Visiting Researcher
-      institution: Center for Mathematical and Computational Sciences, Institute for Basic Science (IBS)
-      year: Jul–Aug 2025
+    - title: "Visiting Researcher"
+      institution: "Center for Mathematical and Computational Sciences, Institute for Basic Science (IBS)"
+      year: "Jul–Aug 2025"
       description:
-        - Hosted by Dr. Roohani Sharma, working on parameterized algorithms.
+        - "Hosted by Dr. Roohani Sharma, working on parameterized algorithms."
 
 - title: Experience
   type: time_table
   contents:
-    - title: Lecturer
-      institution: Pune University and Ferguson College, India
-      year: 2023–2024
+    - title: "Lecturer"
+      institution: "Pune University and Ferguson College, India"
+      year: "2023–2024"
       description:
-        - Courses taught: *Ramsey Theory*, *Combinatorics*
-    - title: Teaching Assistant
-      institution: IISER Pune, NPTEL, and affiliated colleges
-      year: 2021–2024
+        - "Courses taught: Ramsey Theory, Combinatorics"
+    - title: "Teaching Assistant"
+      institution: "IISER Pune, NPTEL, and affiliated colleges"
+      year: "2021–2024"
       description:
-        - Assisted in courses such as *Linear Algebra*, *Graph Theory*, and *Graph Theoretic Algorithms and Combinatorics*.
+        - "Assisted in courses such as Linear Algebra, Graph Theory, and Graph Theoretic Algorithms and Combinatorics."
 
 - title: Fellowships and Awards
   type: time_table
   contents:
-    - year: 2025
+    - year: "2025"
       items:
-        - Best Ph.D. Thesis Award, Department of Mathematics, IISER Pune
-    - year: 2020–2024
+        - "Best Ph.D. Thesis Award, Department of Mathematics, IISER Pune"
+    - year: "2020–2024"
       items:
-        - Prime Minister’s Research Fellowship (PMRF)
-    - year: 2019–2020
+        - "Prime Minister’s Research Fellowship (PMRF)"
+    - year: "2019–2020"
       items:
-        - CSIR NET Fellowship
-    - year: 2014–2019
+        - "CSIR NET Fellowship"
+    - year: "2014–2019"
       items:
-        - INSPIRE Fellowship, Department of Science and Technology, Govt. of India
-    - year: 2019
+        - "INSPIRE Fellowship, Department of Science and Technology, Govt. of India"
+    - year: "2019"
       items:
-        - GATE (Mathematics) — All India Rank 133
-    - year: 2018
+        - "GATE (Mathematics) — All India Rank 133"
+    - year: "2018"
       items:
-        - UGC NET — JRF Eligible, All India Rank 69
+        - "UGC NET — JRF Eligible, All India Rank 69"
 
 - title: Professional Services
   type: list
   contents:
-    - Reviewer for *Discrete Applied Mathematics*, *Algorithmica*, *Theoretical Computer Science*, *MFCS*, *IWOCA* etc.
+    - "Reviewer for Discrete Applied Mathematics, Algorithmica, Theoretical Computer Science, MFCS, IWOCA, etc."
 
 - title: References
   type: list
   contents:
-    - **Prof. Saket Saurabh**, The Institute of Mathematical Sciences, Chennai, India — saket@imsc.res.in
-    - **Prof. Soumen Maity**, IISER Pune, India — soumen@iiserpune.ac.in
-    - **Dr. Roohani Sharma**, Institute for Basic Science, South Korea — roohani.sharma90@gmail.com
+    - "**Prof. Saket Saurabh**, The Institute of Mathematical Sciences, Chennai, India — saket@imsc.res.in"
+    - "**Prof. Soumen Maity**, IISER Pune, India — soumen@iiserpune.ac.in"
+    - "**Dr. Roohani Sharma**, Institute for Basic Science, South Korea — roohani.sharma90@gmail.com"
